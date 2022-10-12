@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FdyCN
-- 👀 I’m a coder in HPC with OpenCL&Arm Neon
-- 🌱 I wanna learning more about OpenGL\C++ Design
+- 👀 I’m a coder in HPC with CUDA\Apple Metal\OpenCL
+- 🌱 I wanna learning more about GPU assembly & driver
 - 📫 If you have the same interests contact me by emailing fdyuestc@163.com
 
 <!---
