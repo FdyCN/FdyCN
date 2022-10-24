@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FdyCN
-- 👀 I’m a coder in HPC with CUDA\Apple Metal\OpenCL
-- 🌱 I wanna learning more about GPU assembly & driver
-- 📫 If you have the same interests contact me by emailing fdyuestc@163.com
+- 👀 I’m a coder playing with CUDA\Apple Metal\OpenCL on GPU.
+- GPUer come on!
 
 <!---
 FdyCN/FdyCN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
